@@ -5,5 +5,7 @@ Average data of experiments that have been carried out with a group of 30 volunt
 # Variables
 
 1 Subject - identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
 2 Activity - one of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+
 3-68 - avarage value of the mean and standard deviation for each measurement for each activity and each subject. Look for more datails in description of project.
